@@ -1,3 +1,5 @@
+# [2.0.0](https://github.com/byteshard/byteshard/compare/v1.0.0...v2.0.0) (2023-05-10)
+
 # 1.0.0 (2023-05-10)
 
 
