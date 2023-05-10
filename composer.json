@@ -1,0 +1,24 @@
+{
+  "name": "byteshard/byteshard",
+  "description": "byteShard PHP Framework",
+  "minimum-stability": "stable",
+  "license": "MPL-2.0",
+  "authors": [
+    {
+      "name": "Lars Hennig"
+    }
+  ],
+  "config": {
+    "allow-plugins": {
+      "byteshard/asset-plugin": false
+    }
+  },
+  "require": {
+    "byteshard/ui": "^1.0",
+    "byteshard/core": "^1.0",
+    "byteshard/schema": "^1.0",
+    "byteshard/grid": "^1.0",
+    "byteshard/form": "^1.0",
+    "byteshard/toolbar": "^1.0"
+  }
+}
