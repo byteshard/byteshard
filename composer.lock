@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b71ccc6e2356fe5394674c4822da6884",
+    "content-hash": "e00862738d057fa57017a52dd0cffa3a",
     "packages": [
         {
             "name": "byteshard/asset-plugin",
@@ -713,6 +713,50 @@
                 "source": "https://github.com/byteshard/toolbar/tree/v1.0.0"
             },
             "time": "2023-05-10T08:18:15+00:00"
+        },
+        {
+            "name": "byteshard/tree",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/byteshard/tree.git",
+                "reference": "410e29a4616dab1dded8d4a4f882033a6eb087f5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/byteshard/tree/zipball/410e29a4616dab1dded8d4a4f882033a6eb087f5",
+                "reference": "410e29a4616dab1dded8d4a4f882033a6eb087f5",
+                "shasum": ""
+            },
+            "require": {
+                "byteshard/core": "^1.0",
+                "ext-simplexml": "*",
+                "php": "^8.1"
+            },
+            "require-dev": {
+                "phpstan/phpstan": "^1.9"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "byteShard\\": "src/byteShard"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MPL-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Lars Hennig"
+                }
+            ],
+            "description": "Tree components for the byteshard framework",
+            "support": {
+                "issues": "https://github.com/byteshard/tree/issues",
+                "source": "https://github.com/byteshard/tree/tree/v1.0.0"
+            },
+            "time": "2023-05-10T08:11:11+00:00"
         },
         {
             "name": "byteshard/ui",

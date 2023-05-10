@@ -19,6 +19,7 @@
     "byteshard/schema": "^1.0",
     "byteshard/grid": "^1.0",
     "byteshard/form": "^1.0",
-    "byteshard/toolbar": "^1.0"
+    "byteshard/toolbar": "^1.0",
+    "byteshard/tree" : "^1.0"
   }
 }
