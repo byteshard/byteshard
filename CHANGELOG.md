@@ -1,3 +1,13 @@
+# [4.0.0](https://github.com/byteshard/byteshard/compare/v3.0.1...v4.0.0) (2024-07-08)
+
+
+* Merge pull request #1 from byteshard/lhennig_coreupgrade ([b3d7c64](https://github.com/byteshard/byteshard/commit/b3d7c641f0ad8a3a96a3ada3a76eedfcaccfb23a)), closes [#1](https://github.com/byteshard/byteshard/issues/1)
+
+
+### BREAKING CHANGES
+
+* ext-mbstring needed from now on in favour of neitano…
+
 ## [3.0.1](https://github.com/byteshard/byteshard/compare/v3.0.0...v3.0.1) (2023-05-10)
 
 
