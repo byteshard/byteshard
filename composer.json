@@ -14,12 +14,12 @@
     }
   },
   "require": {
-    "byteshard/ui": "^1.0",
-    "byteshard/core": "^1.0",
-    "byteshard/schema": "^1.0",
-    "byteshard/grid": "^1.0",
-    "byteshard/form": "^1.0",
-    "byteshard/toolbar": "^1.0",
-    "byteshard/tree" : "^1.0"
+    "byteshard/ui": ">=1.0",
+    "byteshard/core": ">=2.0",
+    "byteshard/schema": ">=1.0",
+    "byteshard/grid": ">=2.0",
+    "byteshard/form": ">=2.0",
+    "byteshard/toolbar": ">=2.0",
+    "byteshard/tree" : ">=2.0"
   }
 }
